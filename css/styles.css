@@ -18,6 +18,12 @@ main {
 
 }
 
+.header {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
 .logo {
     width: 500px;
 }
